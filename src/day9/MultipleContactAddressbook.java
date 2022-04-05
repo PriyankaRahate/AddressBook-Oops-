@@ -3,7 +3,8 @@ package day9;
 import java.util.ArrayList;
 import java.util.ListIterator;
 import java.util.Scanner;
-public class MultipleContact {
+
+public class MultipleContactAddressbook{
 	public static void main(String[] args) {
 		System.out.println("Welcome to the address book system");
 		ArrayList<Contact> array = new ArrayList<Contact>();
